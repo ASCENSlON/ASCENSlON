@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**ASCENSlON/ASCENSlON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+<img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/> <br>
+<img src="rings.gif" width="20%" height="30%"/> <br>
+<img src="cidasc.png" width="55%"/> <br>
+<img src="meinliebe.gif" width="20%"/>
+<img src="ichselbst.gif" width="30%"/> <br>
+<img src="gun.jpg" width="20%"/> <br>
+<sup>$\color{maroon}{\text{<3}}$</sup> <br>
+<img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/> <br>
+<img src="https://komarev.com/ghpvc/?username=type-m00n&color=ff00ff&label=anomalies+found&abrreviated=true"/>
+</p>
+</p>
