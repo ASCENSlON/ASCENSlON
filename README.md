@@ -1,7 +1,7 @@
 <p align=center>
 <img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/><img src="cloud.gif" width="10%"/> <br>
 <img src="rings.gif" width="20%" height="30%"/> <br>
-<img src="cidasc.png" width="55%"/> <br>
+<img src="cidscen.png" width="55%"/> <br>
 <img src="meinliebe.gif" width="20%"/>
 <img src="ichselbst.gif" width="30%"/> <br>
 <img src="gun.jpg" width="20%"/> <br>
